@@ -2,4 +2,4 @@
 
 ## Compilation
 
-- libglfw3-dev
+- libsdl3-dev
